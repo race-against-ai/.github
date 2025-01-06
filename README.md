@@ -20,7 +20,7 @@ This repository provides an overview of the modules and their respective GitHub 
 
 ### 1. **Live Visualization**
    - **Description:** Displays the race, including a live camera feed of the track and checkpoint visualization similar to Formula 1.
-   - **Repository:** [RAAI Module Live Visualization](#)
+   - **Repository:** [RAAI Module Live Visualization](https://github.com/race-against-ai/module_live_visualization)
 
 ### 2. **VR Camera Module**
    - **Description:** Handles the connection to the VR camera, delivering real-time video feed to the headset.
@@ -55,16 +55,16 @@ This repository provides an overview of the modules and their respective GitHub 
    - **Repository:** [RAAI Module Platform Output Writer](#)
 
 ### 10. **Driver Input Reader**
-    - **Description:** Reads inputs from the driver, such as pedal and steering wheel positions.
-    - **Repository:** [RAAI Module Driver Input Reader](#)
+   - **Description:** Reads inputs from the driver, such as pedal and steering wheel positions.
+   - **Repository:** [RAAI Module Driver Input Reader](#)
 
 ### 11. **Vehicle Tracking Configurator**
-    - **Description:** Provides a GUI for configuring the tracker’s settings, such as regions of interest.
-    - **Repository:** [RAAI Module Vehicle Tracking Configurator](#)
+   - **Description:** Provides a GUI for configuring the tracker’s settings, such as regions of interest.
+   - **Repository:** [RAAI Module Vehicle Tracking Configurator](#)
 
 ### 12. **NGITL MicroManager**
-    - **Description:** A project management tool to start and manage all RAAI modules.
-    - **Repository:** [NGITL MicroManager](#)
+   - **Description:** A project management tool to start and manage all RAAI modules.
+   - **Repository:** [NGITL MicroManager](#)
 
 ---
 
