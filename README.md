@@ -4,8 +4,6 @@ Welcome to **Race Against AI**, a cutting-edge project where humans compete in a
 
 This repository provides an overview of the modules and their respective GitHub repositories, allowing you to explore and contribute to the development of this innovative project.
 
----
-
 ## Project Overview
 
 ### Features
@@ -14,7 +12,6 @@ This repository provides an overview of the modules and their respective GitHub 
 - **Real-Time Visualizations:** Live race tracking with checkpoints and lap times.
 - **Modular Design:** Each component is developed independently for maximum flexibility and scalability.
 
----
 
 ## Modules Overview
 
@@ -62,7 +59,6 @@ This repository provides an overview of the modules and their respective GitHub 
    - **Description:** Outputs platform data for integration with other modules.
    - **Repository:** [RAAI Platform Output Writer](https://github.com/race-against-ai/module-platform-output-writer)
 
----
 
 ## Getting Started
 
@@ -74,13 +70,7 @@ Each module repository contains detailed instructions for installation, configur
 - VR Headset compatible with the RAAI setup
 - RC car with Pikoder control system
 
----
 
 ## License
 The project is licensed under the [MIT License](LICENSE.md). See the LICENSE file for details.
-
----
-
-## Contact
-For any questions, please contact the RAAI development team at [support@example.com](mailto:support@example.com).
 
