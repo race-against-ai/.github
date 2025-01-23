@@ -33,7 +33,7 @@ This repository provides an overview of the modules and their respective GitHub 
 
 ### 5. **Vehicle Tracker**
    - **Description:** Tracks the RC car’s position on the track using color detection in the camera feed.
-   - **Repository:** [RAAI Vehicle Tracker](https://github.com/race-against-ai/module_vehicle_tracker)
+   - **Repository:** [RAAI Vehicle Tracker](https://github.com/race-against-ai/module_vehicle_tracking)
 
 ### 6. **Vehicle Tracking Configurator**
    - **Description:** Provides a GUI for configuring the tracker’s settings, such as regions of interest.
