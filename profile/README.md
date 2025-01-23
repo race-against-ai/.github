@@ -17,47 +17,47 @@ This repository provides an overview of the modules and their respective GitHub 
 
 ### 1. **NGITL MicroManager**
    - **Description:** A project management tool to start and manage all RAAI modules.
-   - **Repository:** [NGITL MicroManager](https://github.com/race-against-ai/ngitl-micro-manager)
+   - **Repository:** [NGITL MicroManager](https://github.com/race-against-ai/ngitl_micro_manager)
 
 ### 2. **Live Visualization**
    - **Description:** Displays the race, including a live camera feed of the track and checkpoint visualization similar to Formula 1.
-   - **Repository:** [RAAI Live Visualization](https://github.com/race-against-ai/module-live-visualization)
+   - **Repository:** [RAAI Live Visualization](https://github.com/race-against-ai/module_live_visualization)
 
 ### 3. **VR Camera Module**
    - **Description:** Handles the connection to the VR camera, delivering real-time video feed to the headset.
-   - **Repository:** [RAAI VR Camera](https://github.com/race-against-ai/module-vr-camera)
+   - **Repository:** [RAAI VR Camera](https://github.com/race-against-ai/module_vr_camera)
 
 ### 4. **Camera Image Stream**
    - **Description:** Streams the track’s camera feed via UDP multicast and pynng sockets.
-   - **Repository:** [RAAI Camera Image Stream](https://github.com/race-against-ai/module-camera-image-stream)
+   - **Repository:** [RAAI Camera Image Stream](https://github.com/race-against-ai/module_camera_image_stream)
 
 ### 5. **Vehicle Tracker**
    - **Description:** Tracks the RC car’s position on the track using color detection in the camera feed.
-   - **Repository:** [RAAI Vehicle Tracker](https://github.com/race-against-ai/module-vehicle-tracker)
+   - **Repository:** [RAAI Vehicle Tracker](https://github.com/race-against-ai/module_vehicle_tracker)
 
 ### 6. **Vehicle Tracking Configurator**
    - **Description:** Provides a GUI for configuring the tracker’s settings, such as regions of interest.
-   - **Repository:** [RAAI Vehicle Tracking Configurator](https://github.com/race-against-ai/module-vehicle-tracking-configurator)
+   - **Repository:** [RAAI Vehicle Tracking Configurator](https://github.com/race-against-ai/module_vehicle_tracking_configurator)
 
 ### 7. **Time Tracking**
    - **Description:** Manages lap and sector times, ensuring accurate timing when passing checkpoints.
-   - **Repository:** [RAAI Time Tracking](https://github.com/race-against-ai/module-time-tracking)
+   - **Repository:** [RAAI Time Tracking](https://github.com/race-against-ai/module_time_tracking)
 
 ### 8. **Control Panel**
    - **Description:** Provides a dashboard to monitor and adjust parameters like throttle, brake, and steering.
-   - **Repository:** [RAAI Control Panel](https://github.com/race-against-ai/module-control-panel)
+   - **Repository:** [RAAI Control Panel](https://github.com/race-against-ai/module_control_panel)
 
 ### 9. **Driver Input Reader**
    - **Description:** Reads inputs from the driver, such as pedal and steering wheel positions.
-   - **Repository:** [RAAI Driver Input Reader](https://github.com/race-against-ai/module-driver-input-reader)
+   - **Repository:** [RAAI Driver Input Reader](https://github.com/race-against-ai/module_driver_input_reader)
 
 ### 10. **Vehicle Output Writer**
    - **Description:** Sends processed control signals to the RC car’s Pikoder system.
-   - **Repository:** [RAAI Vehicle Output Writer](https://github.com/race-against-ai/module-vehicle-output-writer)
+   - **Repository:** [RAAI Vehicle Output Writer](https://github.com/race-against-ai/module_vehicle_output_writer)
 
 ### 11. **Platform Output Writer**
    - **Description:** Outputs platform data for integration with other modules.
-   - **Repository:** [RAAI Platform Output Writer](https://github.com/race-against-ai/module-platform-output-writer)
+   - **Repository:** [RAAI Platform Output Writer](https://github.com/race-against-ai/module_platform_output_writer)
 
 
 ## Getting Started
