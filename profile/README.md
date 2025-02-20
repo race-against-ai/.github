@@ -64,6 +64,8 @@ This repository provides an overview of the modules and their respective GitHub 
 
 Each module repository contains detailed instructions for installation, configuration, and usage. Refer to the linked repositories for specific setup guides.
 
+<img src="RAAI_Startup.png" width="800"/>
+
 ### Prerequisites
 - Python 3.7+
 - Raspberry Pi (for certain modules)
