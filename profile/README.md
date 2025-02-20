@@ -25,7 +25,7 @@ This repository provides an overview of the modules and their respective GitHub 
 
 ### 3. **VR Camera Module**
    - **Description:** Handles the connection to the VR camera, delivering real-time video feed to the headset.
-   - **Repository:** [RAAI VR Camera](https://github.com/race-against-ai/module_vr_camera)
+   - **Repository:** [RAAI VR Camera](https://github.com/race-against-ai/module_live_camera)
 
 ### 4. **Camera Image Stream**
    - **Description:** Streams the track’s camera feed via UDP multicast and pynng sockets.
